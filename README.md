@@ -13,7 +13,7 @@ Di repository ini, saya akan membagikan berbagai proyek yang mencakup:
 
 ## 📬 Kontak
 Jika ingin berdiskusi atau berkolaborasi, silakan hubungi saya melalui:  
-📧 Email: [kurniahansenn@gmail.com]  
-🔗 LinkedIn: [https://linkedin.com/in/kurnia-hansen-h-s]  
+📧 Email: kurniahansenn@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/kurnia-hansen-h-s  
 
 🚀 Stay tuned untuk proyek-proyek selanjutnya!  
